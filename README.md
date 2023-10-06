@@ -1,14 +1,13 @@
-# Markdown-Learning
-1. 我们在使用github的仓库的时候应该把主机电脑的git key添加到这个仓库中。
-2. 我们可以使用vscode 去编辑markdown的文档，并且安装插件markdown preview去实时的看出来的效果。
-3. 使用快捷键ctrl + k v去打开这个预览
-4. 
+1. README.md
+2. READYou.
+3. 123
 # HEAD
 Hello Yuhan,
-I am Yikun Yu. The follow is my code:
+I am Yikun Yu. The follow is my refer:
 >refer >是引用
 
 
+The related code is as follows:
 * Code* 是无序的列表
 ```
 #include <iostream>
@@ -29,4 +28,4 @@ int main(){
 ```
 
 
-Here are baidu's websit. [Baidu](https://www.google.com/) 
+Here are baidu's websit. [Baidu](https://www.google.com/)
